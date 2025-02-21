@@ -1,67 +1,41 @@
 # Hi, I'm Alan Plum
 
-* based in NRW, Germany
-* 10 years working with React, Node and TypeScript
-* 20 years working in web technologies
+## Software Integration Specialist
+
+I'm a software developer with 15+ years of experience providing services including:
+creating complex integrations, backend systems, full-stack web applications, and open-source tooling.
+Specialities include TypeScript, Node.js, and API integrations.
+
+I have partnered with founders and small to mid-sized teams in a wide range of business domains including pharmaceutical, tourism and hospitality, film festivals, professional education, public sector and telecommunications and am committed to building robust software solutions with a focus on long-term maintenance and adapting to evolving business requirements.
 
 **LinkedIn**: https://www.linkedin.com/in/alanplum/<br/>
-**XING**: https://www.xing.com/profile/Alan_Plum
+**XING**: https://www.xing.com/profile/Alan_Plum<br/>
+**Project History**: [English :eu:](https://www.gulp.de/gulp2/g/spezialisten/resume/alan.plum) / [German :de::austria::switzerland:](https://www.gulp.de/gulp2/g/spezialisten/profil/alan.plum)
 
-## I'm currently looking for
+## Core Technologies
 
-* projects of any size (0+ hours)
-* solo or working in a team
-* writing code or mentoring
+*	Languages: TypeScript/JavaScript (Node.js), PHP 8 (Laravel)
+*	Databases: NoSQL (ArangoDB, MongoDB, etc) and SQL (SQLite, PostgreSQL, etc)
+*	Frontend: React.js, TailwindCSS, Alpine
 
-✔️ TypeScript<br/>
-✔️ React<br/>
-✔️ Tailwind or CSS<br/>
-✔️ A11y / L10n / I18n<br/>
-✔️ Node<br/>
-✔️ building CLI tools & integrations/connectors<br/>
-✔️ Docker<br/>
-✔️ GitHub Actions / Workflows<br/>
+## Technical Strengths
 
-## Additional bragging rights
+*	Quick to adapt to unique business domains
+*	Expert in translating complex technical concepts and business processes
+*	Experienced in tying together disparate systems and idiosyncratic APIs
+*	Able to move between programming languages and paradigms as needed
+*	Focus on creating intuitive, user-friendly and maintainable solutions
 
-✔️ [Contributed a PR to React](https://github.com/facebook/react/pulls?q=is%3Apr+author%3Apluma)<br/>
-✔️ [Mentioned in HTML Acknowledgements](https://html.spec.whatwg.org/multipage/acknowledgements.html#acknowledgments)
+## Preferred Engagement
 
-## Some recent open source / source available backend work
+*	Primarily remote work (average 20 hours/week)
+*	Flexibility for key on-site meetings
+*	Short-term and long-term projects
+*	On-demand support (0 hours+) possible
+*	Individual contributor or supporting small teams
+*	Legally secure contract partner as [Foss & Haas GmbH](https://github.com/foss-haas)
 
-All of these consist of code and documentation, unless indicated otherwise.
+## Languages
 
-* [arangodb/arangojs](https://github.com/arangodb/arangojs)
-
-  Node/browser client for ArangoDB. Starting w/ complete rewrite for v3 in
-  2014, then converted to TypeScript + Typedoc for inline documentation and
-  providing ESModules + CommonJS builds from one npm package. Reference
-  documentation is auto-published to GitHub pages via GitHub Actions.
-
-* [arangodb-foxx/tableau-connector](https://github.com/arangodb-foxx/tableau-connector)<br/>
-  [arangodb-foxx/powerbi-connector](https://github.com/arangodb-foxx/powerbi-connector)<br/>
-  [arangodb-foxx/qlik-connector](https://github.com/arangodb-foxx/qlik-connector)<br/>
-  [arangodb-foxx/grafana-connector](https://github.com/arangodb-foxx/grafana-connector)
-  
-  Series of BI connectors accompanying step-by-step user guides (not public).
-
-* [Tutorial: Foxx Fine Grained Permissions](https://www.arangodb.com/foxx-fine-grained-permissions/)
-
-  Tutorial for writing a web service using the Foxx framework w/ example code.
-
-* [ArangoDB Foxx service framework](https://www.arangodb.com/docs/stable/foxx.html)
-
-  Foxx framework for ArangoDB. Starting w/ extensions to the ArangoDB v2 API &
-  major rewrite of the public API for ArangoDB v3. Full docs, user guide &
-  upgrade guide.
-
-* ArangoDB Node-Foxx
-
-  API-equivalent port of the (synchronous) ArangoDB server-side JS API to
-  (asynchronous) Node.js in TypeScript. Implemented a launcher/dispatcher for
-  thread-isolated Foxx services using the Node `worker_threads` API.
-
-* [arangodb/foxx-cli](https://github.com/arangodb/foxx-cli)
-
-  CLI for managing Foxx web services, talks to a REST API I also designed &
-  implemented.
+*	German: native speaker
+*	English: fluent at near-native level
