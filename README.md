@@ -35,7 +35,7 @@ I have partnered with founders and small to mid-sized teams in a wide range of b
 *	Short-term and long-term projects
 *	On-demand support (0 hours+) possible
 *	Individual contributor or supporting small teams
-*	Legally secure contract partner as [Foss & Haas GmbH](https://github.com/foss-haas)
+*	Legally secure contract partner as [@foss-haas](https://github.com/foss-haas)
 
 ## Languages
 
