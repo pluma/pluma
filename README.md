@@ -2,7 +2,7 @@
 
 Looking for my ArangoDB-related contributions? Check out [@pluma4345](https://github.com/pluma4345) instead.
 
-## Software Integration Specialist
+## Freelance Software Developer & Software Consultant
 
 I'm a software developer with 15+ years of experience providing services including:
 creating complex integrations, backend systems, full-stack web applications, and open-source tooling.
