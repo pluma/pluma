@@ -1,7 +1,5 @@
 # Hi, I'm Alan Plum
 
-Looking for my ArangoDB-related contributions? Check out [@pluma4345](https://github.com/pluma4345) instead.
-
 ## Freelance Software Developer & Software Consultant
 
 I'm a software developer with 15+ years of experience providing services including:
